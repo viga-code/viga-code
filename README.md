@@ -1,8 +1,8 @@
 # 👨‍💻 viga-code (Victor Gabriel)
 
-**`Python Developer | Cyber Security Aspirant`**
+**`Software Engineer | Cyber Security Analyst`**
 
-Me chamo Victor Gabriel, sou estudante de TI focado em unir o mundo do desenvolvimento de software com a segurança da informação. Atualmente, construindo a base técnica para o meu primeiro passo no mercado em modelo Home Office, focado em automações com Python e proteção de sistemas.
+Me chamo Victor Gabriel, sou Engenheiro de Software focado em unir o desenvolvimento de sistemas robustos com auditoria e segurança da informação. Atualmente, construindo ferramentas de automação em Python, estudando infraestrutura de redes e aplicando conceitos de segurança defensiva e ofensiva.
 
 <p align="left">
     <!-- Badge de Alvos/Seguidores -->
@@ -16,29 +16,36 @@ Me chamo Victor Gabriel, sou estudante de TI focado em unir o mundo do desenvolv
 
 ---
 
-### 🛡️ Arsenal e Tecnologias
-
-<!-- Python -->
-<img align="left" alt="Python" title="Python" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-
-<!-- Linux -->
-<img align="left" alt="Linux" title="Linux" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-
-<!-- Git -->
-<img align="left" alt="Git" title="Git" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-
-<!-- Bash/Terminal -->
-<img align="left" alt="Bash" title="Bash" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-
-<br/>
-<br/>
-
-### 📊 Monitoramento de Atividade (Stats)
+### 📊 Operações Concluídas (Cyber Metrics)
 
 <p align="left">
-  <!-- Card de Estatísticas Gerais -->
-  <img src="https://github-readme-stats.vercel.app/api?username=viga-code&show_icons=true&theme=tokyonight&locale=pt-br" alt="GitHub Stats" height="160" style="padding-right: 10px;" />
+  <!-- Contador de CTFs (Modifique o número 05 quando evoluir) -->
+  <img src="https://img.shields.io/badge/CTFs_CONCLUÍDOS-05-00FF00?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=111111" alt="CTFs Concluídos" />
+  
+  <!-- Contador de Pentests (Modifique o número 01 quando evoluir) -->
+  <img src="https://img.shields.io/badge/PENTESTS_REALIZADOS-01-00FF00?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=111111" alt="Pentests Realizados" />
+</p>
 
-  <!-- Card de Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viga-code&theme=tokyonight&layout=compact&langs_count=5" alt="Top Langs" height="160" />
+---
+
+### 🛡️ Arsenal e Tecnologias
+
+<p align="left">
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <!-- Linux -->
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+  <!-- Git -->
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <!-- Bash/Terminal -->
+  <img src="https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25" alt="Bash" />
+</p>
+
+---
+
+### 📈 Gráfico de Atividade Hacker
+
+<p align="center">
+  <!-- Gráfico de atividade de commits super estável -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viga-code&theme=github-dark-green&bg_color=111111&hide_border=true" width="100%" alt="Gráfico de Atividade" />
 </p>
